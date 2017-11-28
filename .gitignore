@@ -4,3 +4,5 @@
 
 /src/GreenLap.UI/e2e
 /.vs
+/src/GreenLab.UI/e2e
+/src/GreenLab.UI/node_modules
